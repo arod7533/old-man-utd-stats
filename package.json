@@ -1,0 +1,1 @@
+{"name":"old-man-utd-stats","private":true,"type":"module","scripts":{"test":"node --test test/*.test.js","start":"python3 -m http.server 4173 --directory docs"}}
